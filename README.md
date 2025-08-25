@@ -43,3 +43,5 @@
 ---
 
 > **“Code is not just about syntax – it's about creativity, logic, and passion. I write code not just to build apps, but to build solutions.”**
+>
+> ![shwta.png](https://github.com/Shwta23/Shwta23/blob/main/shwta.png)
